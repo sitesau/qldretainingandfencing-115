@@ -1,0 +1,22 @@
+{
+  "wheel_id": 925,
+  "structure": "umbrella",
+  "slug": "qldretainingandfencing-115",
+  "project": "retaining-wall-installation-brisbane-glossary-bf547305083f8bd3a",
+  "parent_t1_ref": "qldretainingandfencing-157",
+  "node_role": "feeder",
+  "money_target": "qldretainingandfencing.com.au",
+  "primary_kw": "retaining wall installation brisbane glossary",
+  "intended_url": "https://sitesau.github.io/qldretainingandfencing-115/",
+  "tier": "T2",
+  "writeback_nonce": "2c9c5026ef27cb98",
+  "links": [
+    {
+      "target_url": "https://sites-e470-2.web.app/retaining-wall-installation-brisbane-planning-guide-23fd16a0d84/",
+      "anchor": "retaining wall installation brisbane planning guide explained",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
